@@ -1,6 +1,6 @@
-I'm Oliver - a PhD student at UofG working in optical neuromorphics.
+I'm Oliver - a postdoctoral researcher at UofG working in optical neuromorphics.
 
-I'm interested in the brain, photonic computing, and meta-learning. I'm currently working on novel optimisation methods for photonic neuromorphic systems.
+I'm interested in the brain, photonic computing, and meta-learning. I'm currently working on brain sensing and retrieval, and novel optimisation methods for photonic neuromorphic systems.
 
 - [Gitlab](https://gitlab.com/odneill)
 - [Website](https://odneill.gitlab.io)
